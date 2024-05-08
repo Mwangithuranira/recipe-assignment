@@ -1,0 +1,111 @@
+body{
+     height: 100vh;
+     width: 100%;
+     background-color: burlywood;
+
+}
+h1{
+      text-align: center;
+}
+.explanation{
+      text-align: center;
+
+}
+.pic{
+     height: 400px;
+     overflow: hidden;
+     border-radius: 1rem;
+     border-bottom: 1rem;
+}
+img{
+      height: auto;
+      width: 100%;
+      display: block;
+}
+.container{
+      width: 50%;
+      margin: auto;
+      border-radius: 2rem;
+      padding: 2rem;
+    border-bottom: 4rem;
+      background-color: whitesmoke;
+      align-items: center;
+      font-size: 1rem;
+      font-family: Arial, Helvetica, sans-serif;
+      
+      
+
+}
+.prepar{
+      text-align: center;
+      font-size: 1.4rem;
+      font-weight: 600;
+}
+.Preparation{
+      width: 75%;
+      background-color:burlywood ;
+      margin-left: 5rem;
+      transition: 0.5;  
+      border-radius: 2rem;
+}
+
+.prep{
+      text-align: center;
+      align-items: end;
+}
+h3{
+
+}
+ul li{
+      padding-bottom: 1rem;
+}
+.ingr{
+      font-weight: 600;
+      font-size: 1.5rem;
+      margin-left: 1.5rem;
+}
+.Ingredients{
+padding-left: 10px;
+}
+.inst {
+      font-weight: 600;
+      font-size: 1.5rem;
+      margin-left: 1.5rem;  
+      line-height: 25pt;
+}
+span{
+      font-weight: 400;
+      font-size: 1.2rem;   
+}
+.nut{
+      font-weight: 600;
+      font-size: 1.5rem;
+      margin-left: 1.5rem;      
+}
+.table tr td th{
+      margin-left: 1rem;
+      border-collapse: collapse;
+
+
+}
+table{
+      width: 100%;
+      border-collapse: collapse;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+
+}
+th{
+      color: rgb(168, 81, 11);
+}
+  tr{
+      border-bottom: 1px solid black;
+}
+p{
+      font-size: 16px;
+
+}
+a{
+      text-decoration: none`;
+}
